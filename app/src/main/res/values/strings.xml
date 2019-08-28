@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Permissions</string>
+
+    <string name="already_granted">Permission has been already granted</string>
+    <string name="now_granted">Permission has just been granted</string>
+    <string name="not_granted">Permission has not been granted</string>
+    <string name="using_permission">Using permission</string>
+    <string name="permission_title">Peppermission</string>
+    <string name="permission_description">Deskription</string>
+</resources>
